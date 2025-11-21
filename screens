@@ -1,1 +1,15 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>الصفحة الرئيسية</title>
+</head>
+<body>
+    <h1>مرحباً بك في التطبيق التعليمي</h1>
+
+    <a href="books.html">الكتب</a><br>
+    <a href="settings.html">الإعدادات</a><br>
+
+</body>
+</html>
